@@ -1,3 +1,22 @@
+央视频道,#genre#
+CCTV1,http://jiexi.bulisite.top/ysp.php?id=cctv1
+CCTV2,http://jiexi.bulisite.top/ysp.php?id=cctv2
+CCTV3,http://jiexi.bulisite.top/ysp.php?id=cctv3
+CCTV4,http://jiexi.bulisite.top/ysp.php?id=cctv4
+CCTV5,http://jiexi.bulisite.top/ysp.php?id=cctv5
+CCTV5+,http://jiexi.bulisite.top/ysp.php?id=cctv5p
+CCTV6,http://jiexi.bulisite.top/ysp.php?id=cctv6
+CCTV7,http://jiexi.bulisite.top/ysp.php?id=cctv7
+CCTV8,http://jiexi.bulisite.top/ysp.php?id=cctv8
+CCTV9,http://jiexi.bulisite.top/ysp.php?id=cctv9
+CCTV10,http://jiexi.bulisite.top/ysp.php?id=cctv10
+CCTV11,http://jiexi.bulisite.top/ysp.php?id=cctv11
+CCTV12,http://jiexi.bulisite.top/ysp.php?id=cctv12
+CCTV13,http://jiexi.bulisite.top/ysp.php?id=cctv13
+CCTV14,http://jiexi.bulisite.top/ysp.php?id=cctv14
+CCTV15,http://jiexi.bulisite.top/ysp.php?id=cctv15
+CCTV-17,http://jiexi.bulisite.top/ysp.php?id=cctv17
+
 国际频道,#genre#
 TVBS欢乐,rtmp://9sv2.mine.nu/sat/tv421
 
