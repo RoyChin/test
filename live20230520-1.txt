@@ -1,4 +1,4 @@
-央视频道,#gnre#
+央视频道,#genre#
 CCTV1,http://jiexi.bulisite.top/ysp.php?id=cctv1
 CCTV2,http://jiexi.bulisite.top/ysp.php?id=cctv2
 CCTV3,http://jiexi.bulisite.top/ysp.php?id=cctv3
