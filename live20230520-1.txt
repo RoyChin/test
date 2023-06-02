@@ -72,4 +72,5 @@ ELTA2,rtmp://9sv2.mine.nu/sat/md021
 博斯网球,rtmp://9sv2.mine.nu/sat/md031
 ELTA3,rtmp://9sv2.mine.nusat/md041
 ELEVEN2,rtmp://9sv2.mine.nu/sat/md051
+五星体育,http://www.happyspace.party:4022/udp/239.45.3.210:5140
 五星体育,https://cntv.sbs/live?auth=230601&id=wxty
