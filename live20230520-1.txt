@@ -15,7 +15,7 @@ CCTV12,http://jiexi.bulisite.top/ysp.php?id=cctv12
 CCTV13,http://jiexi.bulisite.top/ysp.php?id=cctv13
 CCTV14,http://jiexi.bulisite.top/ysp.php?id=cctv14
 CCTV15,http://jiexi.bulisite.top/ysp.php?id=cctv15
-CCTV16,http://jiexi.bulisite.top/ysp.php?id=cctv16
+CCTV16,http://jiexi.bulisite.top/bestv.php?id=cctv16hd8m/8000000
 CCTV17,http://jiexi.bulisite.top/ysp.php?id=cctv17
 
 卫视频道,#genre#
